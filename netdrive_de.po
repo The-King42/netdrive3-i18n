@@ -10,107 +10,107 @@ msgstr ""
 #: ../../NetDriveUI/adddrive.ui:17
 msgctxt "AddDrive|"
 msgid "Add Drive"
-msgstr ""
+msgstr "Laufwerk hinzufügen"
 
 #: ../../NetDriveUI/adddrive.ui:55
 msgctxt "AddDrive|"
 msgid "STORAGE TYPE"
-msgstr ""
+msgstr "Speichertyp"
 
 #: ../../NetDriveUI/adddrive.ui:124
 msgctxt "AddDrive|"
 msgid "CONNECT"
-msgstr ""
+msgstr "Verbunden"
 
 #: ../../NetDriveUI/adddrive.ui:137
 msgctxt "AddDrive|"
 msgid "OPTIONS"
-msgstr ""
+msgstr "Einstellungen"
 
 #: ../../NetDriveUI/adddrive.ui:146
 msgctxt "AddDrive|"
 msgid "Save authentication information"
-msgstr ""
+msgstr "Anmeldedaten speichern"
 
 #: ../../NetDriveUI/adddrive.ui:185
 msgctxt "AddDrive|"
 msgid "REMOTE PATH"
-msgstr ""
+msgstr "Entfenter Pfad"
 
 #: ../../NetDriveUI/adddrive.ui:213
 msgctxt "AddDrive|"
 msgid "BROWSE"
-msgstr ""
+msgstr "Durchsuchen"
 
 #: ../../NetDriveUI/adddrive.ui:240
 msgctxt "AddDrive|"
 msgid "LABEL"
-msgstr ""
+msgstr "Anzeigename"
 
 #: ../../NetDriveUI/adddrive.ui:277
 msgctxt "AddDrive|"
 msgid "MOUNT"
-msgstr ""
+msgstr "Anbinden"
 
 #: ../../NetDriveUI/adddrive.ui:294
 msgctxt "AddDrive|"
 msgid "as"
-msgstr ""
+msgstr "als"
 
 #: ../../NetDriveUI/adddrive.ui:322
 msgctxt "AddDrive|"
 msgid "AUTO CONNECT OPTIONS"
-msgstr ""
+msgstr "Einstellungen für automatische Verbindung "
 
 #: ../../NetDriveUI/adddrive.ui:328
 msgctxt "AddDrive|"
 msgid "No automatic mount"
-msgstr ""
+msgstr "Nicht automatisch anbinden"
 
 #: ../../NetDriveUI/adddrive.ui:341
 msgctxt "AddDrive|"
 msgid "Mount on boot"
-msgstr ""
+msgstr "Anbinden beim Systemstart"
 
 #: ../../NetDriveUI/adddrive.ui:348
 msgctxt "AddDrive|"
 msgid "Mount on login"
-msgstr ""
+msgstr "Anbinden bei Windows Anmeldung"
 
 #: ../../NetDriveUI/adddrive.ui:358
 msgctxt "AddDrive|"
 msgid "UPLOAD OPTIONS"
-msgstr ""
+msgstr "Einstellungen für Hochladen"
 
 #: ../../NetDriveUI/adddrive.ui:364
 msgctxt "AddDrive|"
 msgid "Use on-the-fly uploading in Explorer"
-msgstr ""
+msgstr "Benutze On-The-Fly Hochladen in Explorer"
 
 #: ../../NetDriveUI/adddrive.ui:374
 msgctxt "AddDrive|"
 msgid "Use background uploading"
-msgstr ""
+msgstr "Hochladen im Hintergrund"
 
 #: ../../NetDriveUI/adddrive.ui:387
 msgctxt "AddDrive|"
 msgid "READ ONLY OPTIONS"
-msgstr ""
+msgstr "Nur Lesen - Einstellungen"
 
 #: ../../NetDriveUI/adddrive.ui:393
 msgctxt "AddDrive|"
 msgid "Writable drive"
-msgstr ""
+msgstr "Beschreibarer Laufwerk"
 
 #: ../../NetDriveUI/adddrive.ui:403
 msgctxt "AddDrive|"
 msgid "Read only drive"
-msgstr ""
+msgstr "Nur Leselaufwerk"
 
 #: ../../NetDriveUI/adddrive.ui:413
 msgctxt "AddDrive|"
 msgid "ADVANCED OPTION"
-msgstr ""
+msgstr "Erweiterte Einstellungen"
 
 #: ../../NetDriveUI/adddrive.ui:419
 msgctxt "AddDrive|"
@@ -120,7 +120,7 @@ msgstr ""
 #: ../../NetDriveUI/adddrive.ui:426
 msgctxt "AddDrive|"
 msgid "As a removable drive"
-msgstr ""
+msgstr "Als externer Laufwerk"
 
 #: ../../NetDriveUI/adddrive.ui:433
 msgctxt "AddDrive|"
